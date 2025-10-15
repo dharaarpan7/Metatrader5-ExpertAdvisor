@@ -1,4 +1,4 @@
-# 🧠 AI SuperTrend EA (Long Only)
+# 🧠 SuperTrend EA (Long Only)
 
 **Professional MQ5 Expert Advisor** that trades **only LONG positions** based on the **SuperTrend indicator**.  
 Optimized for **USD pairs** and designed to capture strong bullish momentum while managing risk through dynamic stop loss, take profit, and trailing mechanisms.
