@@ -1,4 +1,4 @@
-#Metatrader5 Expert Advisor
+Metatrader5 Expert Advisor
 
 A collection of advanced, backtested, and high-performance TradingView Pine Script strategies built for real traders. Includes Supertrend, Price Action, and Fibonacci-based systems with smart risk management, auto exits, and clean chart visualization.
 
